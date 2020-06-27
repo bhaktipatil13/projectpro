@@ -11,7 +11,7 @@ export const SideNav = ({ handleSectionClick }) => {
                 alt="avatar"
             />
             <h2 className="main-name">Bhakti Patil</h2>
-            <p className="subtitle">"Love learninig new things"</p>
+            <p className="subtitle">"A Student"</p>
             <div className="sections-list">
                 <p className="section-list-element" onClick={() => handleSectionClick("about")}>About Me</p>
                 <p className="section-list-element" onClick={() => handleSectionClick("skills")}>Skills</p>
