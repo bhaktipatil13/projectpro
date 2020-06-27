@@ -4,16 +4,16 @@ export const projects = {
     projectList: [
         {
             name: "Project 1",
-            //description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            //link: "http://madhavbahl.tech/react-pokedex/"
+            description:"",
+            link: ""
         }, {
             name: "Project 2",
-            //description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            //link: "http://madhavbahl.tech/react-pokedex/"
+            description: "",
+            link: ""
         }, {
             name: "Project 3",
-            //description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            //link: "http://madhavbahl.tech/react-pokedex/"
+            description: "",
+            link: ""
         } 
     ]
 }
